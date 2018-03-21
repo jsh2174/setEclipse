@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("hello git1234");
 		System.out.println("hello git1");
 		System.out.println("add hotfix------------------");
+		//hotfix 전환 후...
+		System.out.println("hotfix 전환 후...");
 	}
 
 }
