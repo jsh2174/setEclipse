@@ -8,6 +8,10 @@ public class Hello {
 		System.out.println("add hotfix------------------");
 		//hotfix 전환 후...
 		System.out.println("hotfix 전환 후...");
+		// merge 후 추가...
+		System.out.println("merge after !!");
+		
+		
 	}
 
 }
